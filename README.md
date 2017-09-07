@@ -12,3 +12,4 @@ challenge tasks.
 * [The Python Challenge](http://www.pythonchallenge.com/)
 * [Project Euler](https://projecteuler.net/)
 * [Maths Challenge](http://mathschallenge.net)
+* [Monthly Python Challenges](https://github.com/py-study-group/challenges)
