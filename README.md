@@ -13,3 +13,4 @@ challenge tasks.
 * [Project Euler](https://projecteuler.net/)
 * [Maths Challenge](http://mathschallenge.net)
 * [Monthly Python Challenges](https://github.com/py-study-group/challenges)
+* [Understanding Common Factor Attacks: An RSA-Cracking Puzzle](http://www.loyalty.org/~schoen/rsa/)
